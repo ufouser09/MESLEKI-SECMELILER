@@ -1,0 +1,202 @@
+slayt 2
+Bu slaytta, sunumun ana hatlarını vurgulamak önemlidir. İşte bir giriş önerisi:
+
+"Bu sunumda, dijital tasarımın iki temel direği olan UI ve UX'e 
+derinlemesine bir bakış atacağız. 
+Giriş bölümünde, UI ve UX kavramlarını tanıtacağım 
+ve bu iki alanın önemini kapsamlı bir şekilde inceleyeceğim.
+ 'UI Tasarımı' başlığı altında, etkili görsel arayüzler oluşturmanın 
+prensipleri üzerinde duracak ve mobil arayüz tasarımında 
+göz önünde bulundurulması gereken önemli noktalara değineceğiz. 
+Ardından 'UX Tasarımı' bölümünde, kullanıcı deneyimini zenginleştirmek 
+için uygulanması gereken metodolojilere ve mobil deneyim tasarımının 
+inceliklerine odaklanacağız. 'UI ve UX Arasındaki Farklar' bölümünde 
+bu iki disiplinin birbirine nasıl bağlandığını ve etkileşim içinde nasıl 
+çalıştıklarını açıklayacağım. 'UI ve UX Designer Arasındaki Farklar' 
+bölümü, her iki rolün iş dünyasında nasıl farklı beklentilere cevap 
+verdiğini ortaya koyacak. Sunumun sonuç bölümünde, ele alınan 
+ana fikirlerin özetini sunacağım ve UI ve UX tasarımının gelecekteki 
+beklentileri hakkında kısa bir perspektif sağlayacağım. Son olarak, 
+'Referanslar ve Kaynaklar' bölümünde, bu bilgilerin daha da derinlemesine 
+araştırılabilmesi için kullanılan kaynaklara atıfta bulunacağım."
+
+Bu giriş, dinleyicilere sunumun genel yapısını ve bekleyebilecekleri konuları 
+özetler ve aynı zamanda sunumun ilerleyen kısımları için bir temel oluşturur.
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 3
+onları günlük yasantımızda her gün görüyoruz,her gün kullanıyoruz.
+
+internette binlerce site binlerce mobil uygulama var hepsinde butonlar 
+linkler fontlar ikonlar gibi bir sürü şey bulmak mumkun
+işte bütün bunların toplamına biz arayüz diyoruz.bu kullandıgımız 
+arayüzler bizim günlük hayatımızını bir parçası
+
+UX USER EXPERIENCE DESİGN
+UI USER INTERFACE DESİGN
+
+bu ikisi birbirinden neredeyse tamamen farklı şeyler aynı gözüküyor olabilir ama tamamen farklı seyler
+ 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 4
+UI using interface bir arayüz tasarımıdır
+ornegin televizyon kumandasının üstündeki tuslar tusların yerleri buyuklugu 
+renkleri
+tasarımcının kararı ile uygulanıyor
+bunun internet sitesindeki karşılıgı ise butonlar renkler bosluklar 
+gibi grafik elemanlarından olusan
+gorsel tasarımlar
+-------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 7
+kullanıcıların sitede rahat dolasmalarını ve uzun kalmalarını sağlamak için  basit ve kullanılabilir bir arayuz kullanmak
+gerekiyor 
+çunku kullanıcılar bir sitede dolasmaya veya kalmaya saniyeler içinde karar veriyolar
+bu yüzden UX yani kullanıcı deneyimi önem kazanıyor
+
+UX bir uygulamanın bir web sitesinin nasıl göründüğünden çoık nasıl hissettirdiği
+ile ilgli bir kavram
+
+UX'in amacı yapmak istediginiz işlemi size basit ve sorunsuz bir şekilde yaptırmak
+
+gelelim kullanıcı deneyimine hepimiz bugün sosyal medyada 
+saatlerimizi harcıyoruz
+bugun hepimiz bir uygulama üzerinden alısveris yapıyoruz.
+
+özellikle corona zamanında mobil uygulamalar bizim için vazgeçilmez oldular
+işte butun bu uygulamaların bizi bu kadar içine çekebiliyor 
+olması bu kadar saatlerimizi 
+verebiliyor olmamızın sebebi UX yani kullanıcı deneyimi
+
+sitenize giren bir kullanıcı öğrenme ve kullanım kolaylıgı arar
+
+kullanıcı daha öncesinde kullanmış olsa bile bir dahaki ziyaretinde siteyi kullanabilmek için
+yeterinde hatırlamaya ihtiyac duyacaktır buna hatırlanabilirlik denir
+
+bu konuda belli standartlar vardır mesela nedir standartlar 
+ekrana bütün bilgeleri yazmıcaksın renk karmasası olmucak fontları farklı kullanmıcaksın
+sonra karmasık ekranlar olusturuluyor
+
+farklı özelliklerde test araçlarından çeşitli veriler elde etmek de mümkündür bu online göz
+izlemeden ne yapıyorlar kullanıcılar ekranın karşısına oturuyorlar web sitesini açıyorlar göz bebeklerin hareketine göre nereye odaklanıyor Ona
+bakıyorlar Böylelikle sayfanın kullanılabilir tarafları en çok dikkat çeken tarafları netleştirilmiş oluyor ve o taraflara daha önemli bilgileri
+koyuyoruz kullan ama bazen takip etmesi zor olabilecek birçok faktör getirir kullanıcıların alışkanlıkları değiştikçe kullanılabilirlik standartlarında Evrim geçirir Bu nedenle kullanıcı
+alışkanlıklarını gözlemlemeyi analiz etmeyi ve bulgularına göre ürününüzü Optimize etmeye Es geçmelisiniz Apple geldi Ne oldu bir butonuna her şeyi
+çözdü.
+
+Steve Jobs ın da dediği gibi tasarım nasıl göründüğünü ile ilgili değil nasıl çalıştığı ile ilgilidir deneyimleriniz
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 10
+KOTU UX ve IYI UX
+bir siteye girersiniz bir hisse kapılırsınız ama siteye girdiginizde 2 sn sonra kapatma istegi uyanıyorsa
+iste bu kotu kullanıcı deneyimine bir ornektir
+
+iyi kullanıcı deneyiminde ise bugunku sosyal medya uygulamalarında oldugu gibi devamlı 
+orda olmak istersiniz
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=IASVX0RHOPI&ab_channel=M%C3%BChendisKafalar
+UX yani kullanıcı deneyimi en cok UI yani kullanıcı arayüzü ile karıstırılıyor
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 11
+herhangi bir uygulama dusunun bu mobil app web sitesi falan olabilir bizim bu kullanıcının
+siteye tekrar gelmesi için ayağının alısmasıu için bu web sitesini yapmadan önce
+bir arastırılma yapılması gerekir.butun bu projeyi 4 bolume ayırabiliriz
+bunlardan birincisi arastırma kısmıdır
+ikincisi fikir bulma kısmıdır
+ücüncüsü uygulama kısmıdır
+4. ise raporlama kısmıdır
+
+bu dort bolumu göz onunde bulundurursak uı dedigimiz sey arayuz dedigimiz sey
+bunun 3.bolumundedir yanı uygulama kısmında bulunur
+
+ux dedigimiz cok genistir ux butun projenin tasarlanması demektir
+UI designer isin estetiği ile uğrasır fakat ux designer ise bu dahil olmak üzere
+butun alanlarla ugrasır
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+ SLAYT 12
+UX tasarımcısı farklı alanlarla ilgili bilgi sahibi olmalı ve bu bilgilerini uyumlu bir biçimde kullanabilmeli
+
+bilgi mimarisi,etkileşim tasarımı,kullanıcı testleri,kullanılabilirlik ve içerik stratejisi
+bir UX tasarımcısının bilmesi gereken temel baslıklar bunların yanı sıra psikoloji antropoloji
+ve sosyoloji gibi alanlarda da bilgi sahibi olmak UX tasarımcısı için buyuk artı
+çünkü kullanıcıların analizlerini ve tercihlerini öngörebilmek hizmetin doğru hedefe ulasmasına yardımcı olucaktır
+
+ux tasarımcısı kullanıcının sadece sitedeki deneyimini degil bir ürün satıyorsanız
+o ürünün kapıya teslimine kadar bir çok şeyi düşünmek ve çalışmak zorundasınızdır
+sonucta bütün bu süreçler deneyimin bir parçası olucaktır
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=QdFwIErmA1M&ab_channel=ArdaOtuk
+
+
+grafik tasarımcının yakın oldugu yer UI design
+
+arayüz nedir?
+kullanıcı ile kullanıcının ulasmak istediği şey kalan her şeydir
+
+mesela bir kapının kolu o kapının arayüz elemanıdır 
+o kapının kolu olmazsa biz o kapıdan çıkamayız o kapıyı açamayız çünkü
+
+arayüzde seçme elemanı kullanılabilir ve ulasılabilir bir alanda olmalıdır
+kapının kolu uzanamıcagınız kadar ulasamıcagınız bir yerde ise o kapının kolunun hiçbir anlamı kalmaz
+
+
+UX
+UX ve UI aynı seviyede degiller
+UX UI'yı kapsar
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SLAYT 12
+mesela bir buton dusunelim bunun içinde abone ol,bize katıl yada giris yap yazsın butonumuz aynı olsun
+hepsinde de farklı sayıda tıklama olabilir bu durumda UX design sunu der hmm demek ki burada abıone ol yazması daha mantıklı
+
+UI şekillerle fontlarla yazı tipleriyle renklerle estetiği ile ilgilenirken
+ux ise bunların hangi işe yaradıgına bakar
+
+mesela bir yemek uygulamasına girdim siparis vericem siparis ver butonun yanında sey yazıyo yanında iyi gider
+kola mesela bu ux designer'ın işidir buna karar vermek bu analizi yapmak bu raporu ortaya çıkarmak
+anketlerle veya öngörüleriyle sezileriyle buna karar vermek ux designer ın işidir
+
+ama  o butonun tüm özelliklerine karar vermek uı designer ın işidir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

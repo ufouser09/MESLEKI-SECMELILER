@@ -1,0 +1,12 @@
+DERS KAYNAKLARI:
+https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
+https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
+
+DATA MİNİNG:Concepts and Techniques:
+https://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm
+
+YARARLI BİR KAYNAK:
+https://machine-learning-with-python.readthedocs.io/en/latest/
+
+İris kümesi indirme linki:
+https://www.kaggle.com/datasets/saurabh00007/iriscsv
